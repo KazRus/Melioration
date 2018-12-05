@@ -1,0 +1,27 @@
+
+
+.logo {
+    max-width: 240px !important;
+    margin-top: 6px !important;
+
+}
+
+.sticky-header .main-menu .navigation {
+
+    padding: 5px !important;
+
+}
+
+.logo-small img {
+    max-width: 170px;
+}
+
+@media (max-width: 991px) {
+    .logo-small img {
+        max-width: 150px;
+    }
+
+    .main-footer .footer-logo img {
+        max-width: 235px !important;
+    }
+}
